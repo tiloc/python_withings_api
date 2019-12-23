@@ -21,7 +21,7 @@ if os.path.exists(readme_path):
 setup(
     long_description=readme,
     name='withings_api',
-    version='2.1.4b0',
+    version='2.1.4',
     description='Library for the Withings API',
     python_requires='<4.0,>=3.5',
     project_urls={
